@@ -1,0 +1,13 @@
+chromedriver-autoinstaller
+cryptography
+et-xmlfile
+lxml
+numpy
+openpyxl
+pandas
+pyOpenSSL
+python-dateutil
+pytz
+rsa
+selenium
+xlwt
