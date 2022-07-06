@@ -28,7 +28,7 @@ file_path = '\\'.join(os.path.realpath(__file__).split('\\')[:-1])
 
  #<LOGIN>
 DEBUG = variables.debug
-url = 'https://intrachec.chec.com.co/index.php'
+url = 'https://intrachecdes.chec.com.co/index.php'
 browser.get(url)
 
 try:
